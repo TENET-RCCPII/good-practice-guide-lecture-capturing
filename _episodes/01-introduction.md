@@ -44,7 +44,7 @@ Online meeting tools allow people from across the world to connect at low or no 
 
 In this short lesson we hope to provide some pointers that will assist those who are new to online meetings to optimise their online experience.
 
-## The Venue
+## Choosing a Venue
 
 *Background noise* can be very disturbing during an online meeting. It is therefore recommended that you try to find (and book if necessary) a quiet space where you can meet undisturbed and without disturbing others.
 
