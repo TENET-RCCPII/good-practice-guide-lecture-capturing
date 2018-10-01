@@ -44,6 +44,16 @@ Online meeting tools allow people from across the world to connect at low or no 
 
 In this short lesson we hope to provide some pointers that will assist those who are new to online meetings to optimise their online experience.
 
+
+> ## Online Meetings - The Best vs The Worst
+>
+> Discuss in your groups the last video call that you participated in. What worked well?
+> What didn't work well? What made you feel anxious or unsure? How did you interact with others on the call?
+> What would you have liked to do differently? Did the call have a host? A timekeeper? An agenda?
+>
+{: .challenge}
+
+
 ## Choosing a Venue
 
 *Background noise* can be very disturbing during an online meeting. It is therefore recommended that you try to find (and book if necessary) a quiet space where you can meet undisturbed and without disturbing others.
