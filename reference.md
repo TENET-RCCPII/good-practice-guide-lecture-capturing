@@ -4,6 +4,9 @@ layout: reference
 
 ## Glossary
 
-FIXME
+- video conferencing tools:
+- headset:
+- wired internet connectivity:
+
 
 {% include links.md %}
