@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-teaching: 0
-exercises: 0
+teaching: 15
+exercises: 10
 questions:
 - "What is lecture capturing?"
 - "Why are we doing lecture capturing at my university?"
