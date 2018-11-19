@@ -20,18 +20,16 @@ keypoints:
 
 ---
 
-## Introduction to Lecture Capturing
-
-### What is Lecture Capturing?
+## What is Lecture Capturing?
 
 Lecture capturing involves the recording of classroom activities or special events using specific software and making that recording available electronically. The recording is someimes referred to as a podcast or a screencast, and may be audio-only or include video of the lecture. Some software synchronizes lecture slides for viewing alongside the relecant sections of audio and/or video recordings of the instructor. Depending on the software used for recording, sudents may be able to speed up or slow down lectures, pause the playback, and move forward or backward in the presentation.
 
 
-### What is Lecture Capturing Not?
+## What is Lecture Capturing Not?
 
 Lecture capturing should not be confused with the creation of instructional videos outside of the classroom for use as part of a lecture or as supplemental material. It should also not be confused with video conferencing.
 
-### Why are We Capturing Lectures?
+## Why are We Capturing Lectures?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kx8vcKgnR0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *UW faculty use lecture-capture for both practical and pedagogical reasons—to maintain course continuity when classes can't meet, to make lectures accessible for remote or absent students, or to make complete recordings available to students for review lectures after class, a technique that students find helpful. Some faculty create stand-alone lectures for students to watch at home, freeing up in-person class time for more interactive and engaging activities.*
